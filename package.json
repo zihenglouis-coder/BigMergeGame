@@ -1,0 +1,8 @@
+{
+  "name": "big-merge-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Big Merge Game with accounts and a shared leaderboard",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
